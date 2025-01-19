@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://live.staticflickr.com/65535/54275520883_e90079937b_m.jpg" alt="Banner" width="1280"/>
+  <img src="https://live.staticflickr.com/65535/54275520883_9dfddfe97e_k.jpg" alt="Banner" width="1280"/>
 </p>
 <p align="center">👋 Hi, I’m Jayson Lauza you can tag me as @jlauza.</p>
 <p align="center">👀 Favorite Tech: JavaScript, Next, React, PHP, MongoDB, Redis</p>
