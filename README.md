@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/54275520883_9dfddfe97e_k.jpg" alt="Banner" width="1280"/>
-</p>
 <p align="center">👋 Hi, I’m Jayson Lauza you can tag me as @jlauza.</p>
 <p align="center">👀 Favorite Tech: JavaScript, Next, React, PHP, MongoDB, Redis</p>
 <p align="center">📫 How to reach me... email me at lauzajayson@gmail.com</p>
