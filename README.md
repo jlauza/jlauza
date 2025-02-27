@@ -1,6 +1,6 @@
 <p align="center">👋 Hi, I’m Jayson Lauza you can tag me as @jlauza.</p>
 <p align="center">👀 Favorite Tech: JavaScript, Next, React, PHP, MongoDB, Redis, NodeJS</p>
-<p align="center">📫 How to reach me... message me at <a href="https://www.linkedin.com/in/jayson-lauza-a4441948/">LinkedIn</a> or email me at <a href="mailto:lauzajayson@gmail.com">Email me.</a></p>
+<p align="center">📫 How to reach me... message me at <a href="https://www.linkedin.com/in/jayson-lauza-a4441948/">LinkedIn</a></p>
 <p align="center">:computer: Building: <strong>Pro Dance Suite</strong> in a temporary deployment URL: <a href="https://learner-studio-suite-jlauzas-projects.vercel.app/">See Project Here >></a></p>
 
 <!---
