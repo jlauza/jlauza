@@ -1,5 +1,5 @@
 <h1 align="center">Jayson Lauza</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software | Web Application Developer<br/>(MERN & NextJS, Redis)</h3>
 <p align="center">Website: <a href="https://jayson-lauza.vercel.app">LauzaTech</a></p>
 
 <p align="center">👋 Hi, I’m Jayson Lauza you can tag me as @jlauza.</p>
