@@ -1,5 +1,5 @@
 <h1 align="center">Jayson Lauza</h1>
-<h3 align="center">Software Developer<br/>(MERN & NextJS, Redis CRUD)</h3>
+<h3 align="center">Software Developer | (MERN & NextJS) Full-stack Developer</h3>
 <p align="center">Website: <a href="https://initiadev.com">InitiaDev</a></p>
 
 <p align="center">👋 Hi, I’m Jayson Lauza you can tag me as @jlauza.</p>
