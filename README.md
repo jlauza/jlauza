@@ -39,4 +39,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yew-009688?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix--Web-5C2D91?style=for-the-badge&logo=actix&logoColor=white" />
 </p>
