@@ -14,10 +14,6 @@
   <a href="https://www.linkedin.com/in/initiadev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-initiadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://twitter.com/initiadev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@initiadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 
