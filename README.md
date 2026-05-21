@@ -1,5 +1,5 @@
 <h1 align="center">Jayson Lauza</h1>
-<h3 align="center">Software Developer | Full-stack Developer (MERN & Next.js)</h3>
+<h3 align="center">Full-stack Developer (MERN & Next.js)</h3>
 <p align="center">
   🌐 Website: <a href="https://initiadev.com" target="_blank">InitiaDev</a>
 </p>
