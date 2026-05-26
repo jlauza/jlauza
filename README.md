@@ -1,7 +1,7 @@
 <h1 align="center">Jayson Lauza</h1>
 <h3 align="center">Full-stack Developer (MERN & Next.js)</h3>
 <p align="center">
-  🌐 Website: <a href="https://initiadev.com" target="_blank">InitiaDev</a>
+  🌐 Website: <a href="https://jayson-lauza.vercel.app" target="_blank">InitiaDev</a>
 </p>
 
 <p align="center">
